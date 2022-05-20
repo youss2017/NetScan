@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\U-P\source\repos\NetScan\NetScan\main.c(19,59): warning C4133: 'function': incompatible types - from 'DWORD *' to 'const char *'
+C:\Users\U-P\source\repos\NetScan\NetScan\main.c(22,49): warning C4133: 'function': incompatible types - from 'INT *' to 'const char *'
+C:\Users\U-P\source\repos\NetScan\NetScan\main.c(35,101): warning C4047: 'function': 'int *' differs in levels of indirection from 'size_t'
+C:\Users\U-P\source\repos\NetScan\NetScan\main.c(35,82): warning C4024: 'recvfrom': different types for formal and actual parameter 6
+  NetScan.vcxproj -> C:\Users\U-P\source\repos\NetScan\x64\Debug\NetScan.exe
